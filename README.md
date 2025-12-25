@@ -1,3 +1,8 @@
 # minecraft-java-version-download
-这个仓库只有一个职责:提供minecraft JAVA版本
-(不包含依赖库)
+## Repository Purpose
+This repository serves a single purpose: providing the Minecraft JAVA edition standalone binaries. 
+! Note: Dependency libraries are NOT included in this repository.
+! **Important**: Avoid downloading via the 'Download Zip' button. 
+If you must use this method, ensure your system has:
+- Sufficient available memory
+- A stable, high-speed internet connection
